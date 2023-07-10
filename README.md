@@ -8,7 +8,7 @@
 
 This is the code repo of Impulse App. There I used:
 
-- [React]([https://www.w3schools.com/html](https://react.dev/))
+- [React](https://react.dev/)
 - [React Router Dom](https://reactrouter.com/)
 - [Sanity Client](https://www.npmjs.com/package/@sanity/client)
 - [Sanity Image Url](https://www.sanity.io/docs/image-url)
